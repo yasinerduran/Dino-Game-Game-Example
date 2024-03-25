@@ -6,6 +6,8 @@ TagManager:
   tags:
   - "D\xFC\u015Fman"
   - Zemin
+  - GameOver
+  - "Aga\xE7"
   layers:
   - Default
   - TransparentFX
